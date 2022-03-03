@@ -1,0 +1,30 @@
+h1 {
+	text-align: center;
+	color: red;
+	font-weight: bold;
+}
+
+.alltext {
+font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+color: blue;
+}
+
+h3 {
+	color: blue;
+}
+
+h4 {
+	color: blue;
+}
+
+#caption {
+	text-align: right;
+}
+
+img {
+	width: 400px;
+	height: auto;
+}
