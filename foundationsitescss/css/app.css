@@ -1,0 +1,51 @@
+.mainHeader {
+  background-color: blue;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+}
+
+.sidebar {
+  background-color: lightblue;
+}
+
+.menuTab {
+  color: white;
+  font-weight: bold;
+}
+
+.calloutStyle {
+  margin-top: 22px;
+}
+
+.box1 {
+  background-color: #68FC2D;
+}
+
+.boxone {
+background-color: #68FC2D33;
+}
+
+.box2 {
+  background-color: green;
+}
+
+.boxtwo {
+  background-color: #00FF0040;
+}
+
+.box3 {
+  background-color: #CEE635;
+}
+
+.boxthree {
+background-color: #CEE63533;
+}
+
+h5 {
+  font-weight: bold;
+}
+
+h7 {
+  font-style: italic;
+}
