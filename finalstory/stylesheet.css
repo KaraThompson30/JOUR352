@@ -1,4 +1,39 @@
-.titlebar {
+#content {
+  margin-left: 10%;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.title-bar {
   color: white;
-  background-color: lightred;
+  background-color: red;
+  padding: 20px;
+  font-weight: bold;
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Inter', sans-serif;
+}
+
+h3 {
+  font-style: italic;
+  font-weight: bold;
+}
+
+p {
+  padding: 5px;
+}
+
+.callout {
+  background-color: gold;
+  text-align: center;
+  font-style: italic;
+}
+
+.sidenav {
+  width: 60px; /* Set the width of the sidebar */
+  left: 0;
+  background-color: gold;
+  padding-top: 20px;
 }
